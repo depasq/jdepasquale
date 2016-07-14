@@ -73,6 +73,7 @@ p {
 }
 .links li {
 		list-style-type: none;
+    text-decoration: none;
 		margin-bottom: 0.5em;
 		margin-left: 35px;
 		margin-top: 12px;
@@ -84,7 +85,7 @@ p {
 	}
 .links a{
 		text-decoration: none;
-		color: rgba(0, 142, 208, 1);
+		/*color: rgba(0, 142, 208, 1);*/
 }
 .portfolio-details ul {
 		list-style-type: square;
