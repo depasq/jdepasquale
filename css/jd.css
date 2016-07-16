@@ -21,6 +21,9 @@
     height: 100%;
 		width: auto;
 }
+.img-responsive {
+    margin: 0 auto;
+}
 .hdimg {
     padding-right: 0px;
     padding-left: 0px;
